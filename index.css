@@ -1,3 +1,19 @@
-barra {
-  background-color: #725454; /* Cor de fundo desejada */
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.content {
+  
+  width: 30%;
+  height: 30%S;
+  background-color: #ddd;
 }
